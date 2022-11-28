@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="河北联通",CCTV-1高清
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV66" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="河北联通",CCTV-1高清
 http://192.168.2.1:4022/udp/239.253.92.83:8012
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="河北联通",CCTV-2高清
 http://192.168.2.1:4022/udp/239.253.92.190:6065
