@@ -728,6 +728,8 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226680/index.m3u8?se
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="福建移动",黑莓电影
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百事通剧集.png" group-title="福建移动",百事通剧集
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百视通剧集1.png" group-title="福建移动",百视通剧集1
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百视通剧集2.png" group-title="福建移动",百视通剧集2
@@ -782,8 +784,6 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8?se
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="福建移动",咪咕视频
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/末来电视剧.png" group-title="福建移动",末来电视剧
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NEWTV炫舞未来.png" group-title="福建移动",炫舞未来
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南平1.png" group-title="福建移动",南平1
