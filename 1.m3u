@@ -22344,3 +22344,5 @@ http://14.199.158.89:9981/stream/channelid/1536277247?ticket=8b4eea55b9e8d8f2f18
 http://14.199.158.89:9981/stream/channelid/2106990237?ticket=9496659d707668c2f98b733d9cbcff83142c6314&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港dtmb",港台电视 31
 http://14.199.158.89:9981/stream/channelid/1070941921?ticket=1208235c678e682f343a2dfe93130619729dfa0e&profile=pass
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港dtmb",viutv
+http://14.199.158.89:9981/stream/channelid/1484946801?ticket=9ad738377a7cfd41c1ea14264797d45d9e66d8d2&profile=pass
