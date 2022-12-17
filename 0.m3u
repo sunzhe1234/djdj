@@ -2324,7 +2324,7 @@ http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/m
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV芒果乐活.png" group-title="湖南移动",IPTV芒果乐活
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000154081/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV芒果乐淘.png" group-title="湖南移动",IPTV芒果乐淘
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV芒果乐淘.png" group-title="湖南移动",IPTV芒果热播
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://epg.112114.xyz/logo/湖南电视剧.png" group-title="湖南移动",湖南电视剧
 http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
