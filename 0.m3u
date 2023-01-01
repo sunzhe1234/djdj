@@ -2363,25 +2363,6 @@ http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000030/m
 #EXTINF:-1,tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://epg.112114.xyz/logo/长沙政法.png" group-title="湖南移动",长沙政法
 http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000049/main.m3u8?IASHttpSessionId=OTT
 #EXTM3U
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="甘肃移动",甘肃卫视HD
-http://117.157.25.193:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://epg.112114.xyz/logo/甘肃都市.png" group-title="甘肃移动",甘肃都市HD
-http://117.157.25.193:6610/270000001111/1110000324/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="甘肃公共" tvg-name="甘肃公共" tvg-logo="https://epg.112114.xyz/logo/甘肃公共.png" group-title="甘肃移动",甘肃公共应急HD
-http://117.157.25.193:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="https://epg.112114.xyz/logo/甘肃经济.png" group-title="甘肃移动",甘肃经济HD
-http://117.157.25.193:6610/270000001111/1110000326/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="甘肃移动",甘肃少儿HD
-http://117.157.25.193:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.xyz/logo/甘肃文化影视.png" group-title="甘肃移动",甘肃文化影视HD
-http://117.157.25.193:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="兰州生活经济" tvg-name="兰州生活经济" tvg-logo="https://epg.112114.xyz/logo/兰州生活经济.png" group-title="甘肃移动",兰州生活经济
-http://117.157.25.193:6610/270000001111/1110000329/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/兰州文化旅游.png" group-title="甘肃移动",兰州文化旅游
-http://117.157.25.193:6610/270000001111/1110000330/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://epg.112114.xyz/logo/兰州新闻综合.png" group-title="甘肃移动",兰州新闻综合
-http://117.157.25.193:6610/270000001111/1110000328/index.m3u8?IASHttpSessionId=OTT
-#EXTM3U
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="广西移动",咪咕4K
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="广西移动",纯享4K
