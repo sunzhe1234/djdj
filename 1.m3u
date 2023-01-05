@@ -1,117 +1,117 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="广西南宁电信",CCTV1综合[785*576]
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="广西南宁电信",CCTV1综合标清
 http://222.217.126.42:8088/udp/239.81.0.13:4056
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="广西南宁电信",CCTV2财经[785*576]
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="广西南宁电信",CCTV2财经标清
 http://222.217.126.42:8088/udp/239.81.0.14:4056
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="广西南宁电信",CCTV4中文国际[785*576]
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="广西南宁电信",CCTV4中文国际标清
 http://222.217.126.42:8088/udp/239.81.0.16:4056
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="广西南宁电信",CCTV5+体育赛事[720*576]
 http://222.217.126.42:8088/udp/239.81.0.12:4056
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="广西南宁电信",CCTV7国防军事[785*576]
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="广西南宁电信",CCTV7国防军事标清
 http://222.217.126.42:8088/udp/239.81.0.19:4056
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="广西南宁电信",CCTV9纪录[785*576]
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="广西南宁电信",CCTV9纪录标清
 http://222.217.126.42:8088/udp/239.81.0.21:4056
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="广西南宁电信",CCTV10科教[785*576]
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="广西南宁电信",CCTV10科教标清
 http://222.217.126.42:8088/udp/239.81.0.22:4056
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="广西南宁电信",CCTV11戏曲[785*576]
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="广西南宁电信",CCTV11戏曲标清
 http://222.217.126.42:8088/udp/239.81.0.23:4056
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="广西南宁电信",CCTV12社会与法[785*576]
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="广西南宁电信",CCTV12社会与法标清
 http://222.217.126.42:8088/udp/239.81.0.24:4056
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="广西南宁电信",CCTV13新闻[785*576]
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="广西南宁电信",CCTV13新闻标清
 http://222.217.126.42:8088/udp/239.81.0.26:4056
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="广西南宁电信",CCTV14少儿[785*576]
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="广西南宁电信",CCTV14少儿标清
 http://222.217.126.42:8088/udp/239.81.0.25:4056
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="广西南宁电信",CCTV15音乐[785*576]
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="广西南宁电信",CCTV15音乐标清
 http://222.217.126.42:8088/udp/239.81.0.27:4056
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="广西南宁电信",CCTV17农业农村[785*576]
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="广西南宁电信",CCTV17农业农村标清
 http://222.217.126.42:8088/udp/239.81.0.227:4056
-#EXTINF:-1,tvg-id="CETV1[785*576]" tvg-name="CETV1[785*576]" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="广西南宁电信",CETV1[785*576]
+#EXTINF:-1,tvg-id="CETV1标清" tvg-name="CETV1标清" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="广西南宁电信",CETV1标清
 http://222.217.126.42:8088/udp/239.81.0.52:4056
-#EXTINF:-1,tvg-id="CETV2[785*576]" tvg-name="CETV2[785*576]" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="广西南宁电信",CETV2[785*576]
+#EXTINF:-1,tvg-id="CETV2标清" tvg-name="CETV2标清" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="广西南宁电信",CETV2标清
 http://222.217.126.42:8088/udp/239.81.0.245:4056
-#EXTINF:-1,tvg-id="CETV4[785*576]" tvg-name="CETV4[785*576]" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="广西南宁电信",CETV4[785*576]
+#EXTINF:-1,tvg-id="CETV4标清" tvg-name="CETV4标清" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="广西南宁电信",CETV4标清
 http://222.217.126.42:8088/udp/239.81.0.246:4056
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="广西南宁电信",CGTN标清
 http://222.217.126.42:8088/udp/239.81.0.28:4056
-#EXTINF:-1,tvg-id="KAKU少儿[785*576]" tvg-name="KAKU少儿[785*576]" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="广西南宁电信",KAKU少儿[785*576]
+#EXTINF:-1,tvg-id="KAKU少儿标清" tvg-name="KAKU少儿标清" tvg-logo="https://epg.112114.xyz/logo/KAKU少儿.png" group-title="广西南宁电信",KAKU少儿标清
 http://222.217.126.42:8088/udp/239.81.0.62:4056
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="广西南宁电信",安徽卫视[785*576]
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="广西南宁电信",安徽卫视标清
 http://222.217.126.42:8088/udp/239.81.0.37:4056
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广西南宁电信",北京卫视[785*576]
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="广西南宁电信",北京卫视标清
 http://222.217.126.42:8088/udp/239.81.0.30:4056
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="广西南宁电信",兵团卫视[785*576]
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="广西南宁电信",兵团卫视标清
 http://222.217.126.42:8088/udp/239.81.0.213:4056
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="广西南宁电信",东方财经浦东[785*576]
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="广西南宁电信",东方财经浦东标清
 http://222.217.126.42:8088/udp/239.81.0.76:4056
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="广西南宁电信",东方卫视[785*576]
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="广西南宁电信",东方卫视标清
 http://222.217.126.42:8088/udp/239.81.0.29:4056
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="广西南宁电信",东南卫视[785*576]
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="广西南宁电信",东南卫视标清
 http://222.217.126.42:8088/udp/239.81.0.59:4056
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广西南宁电信",广东卫视[785*576]
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广西南宁电信",广东卫视标清
 http://222.217.126.42:8088/udp/239.81.0.36:4056
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="广西南宁电信",贵州卫视[785*576]
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="广西南宁电信",贵州卫视标清
 http://222.217.126.42:8088/udp/239.81.0.56:4056
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="广西南宁电信",海南卫视[785*576]
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="广西南宁电信",海南卫视标清
 http://222.217.126.42:8088/udp/239.81.0.48:4056
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="广西南宁电信",河北卫视[785*576]
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="广西南宁电信",河北卫视标清
 http://222.217.126.42:8088/udp/239.81.0.51:4056
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="广西南宁电信",河南卫视[785*576]
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="广西南宁电信",河南卫视标清
 http://222.217.126.42:8088/udp/239.81.0.44:4056
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="广西南宁电信",黑龙江卫视[785*576]
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="广西南宁电信",黑龙江卫视标清
 http://222.217.126.42:8088/udp/239.81.0.33:4056
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="广西南宁电信",湖北卫视标清
 http://222.217.126.42:8088/udp/239.81.0.41:4056
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="广西南宁电信",湖南卫视[785*576]
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="广西南宁电信",湖南卫视标清
 http://222.217.126.42:8088/udp/239.81.0.40:4056
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="广西南宁电信",吉林卫视[785*576]
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="广西南宁电信",吉林卫视标清
 http://222.217.126.42:8088/udp/239.81.0.58:4056
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广西南宁电信",嘉佳卡通标清
 http://222.217.126.42:8088/udp/239.81.0.64:4056
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="广西南宁电信",江苏卫视[785*576]
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="广西南宁电信",江苏卫视标清
 http://222.217.126.42:8088/udp/239.81.0.34:4056
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="广西南宁电信",江西卫视[785*576]
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="广西南宁电信",江西卫视标清
 http://222.217.126.42:8088/udp/239.81.0.38:4056
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="广西南宁电信",金鹰卡通[785*576]
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="广西南宁电信",金鹰卡通标清
 http://222.217.126.42:8088/udp/239.81.0.61:4056
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="广西南宁电信",辽宁卫视[785*576]
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="广西南宁电信",辽宁卫视标清
 http://222.217.126.42:8088/udp/239.81.0.35:4056
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="广西南宁电信",内蒙古卫视[785*576]
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="广西南宁电信",内蒙古卫视标清
 http://222.217.126.42:8088/udp/239.81.0.54:4056
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="广西南宁电信",宁夏卫视[785*576]
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="广西南宁电信",宁夏卫视标清
 http://222.217.126.42:8088/udp/239.81.0.60:4056
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="广西南宁电信",青海卫视[785*576]
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="广西南宁电信",青海卫视标清
 http://222.217.126.42:8088/udp/239.81.0.53:4056
-#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="广西南宁电信",三沙卫视[785*576]
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="广西南宁电信",三沙卫视标清
 http://222.217.126.42:8088/udp/239.81.0.242:4056
-#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="广西南宁电信",厦门卫视[785*576]
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="广西南宁电信",厦门卫视标清
 http://222.217.126.42:8088/udp/239.81.0.212:4056
-#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="广西南宁电信",山东教育卫视[785*576]
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="广西南宁电信",山东教育卫视标清
 http://222.217.126.42:8088/udp/239.81.0.93:4056
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="广西南宁电信",山东卫视标清
 http://222.217.126.42:8088/udp/239.81.0.39:4056
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="广西南宁电信",山西卫视[785*576]
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="广西南宁电信",山西卫视标清
 http://222.217.126.42:8088/udp/239.81.0.49:4056
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="广西南宁电信",陕西卫视[785*576]
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="广西南宁电信",陕西卫视标清
 http://222.217.126.42:8088/udp/239.81.0.89:4056
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广西南宁电信",深圳卫视[785*576]
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广西南宁电信",深圳卫视标清
 http://222.217.126.42:8088/udp/239.81.0.57:4056
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="广西南宁电信",生活时尚[785*576]
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="广西南宁电信",生活时尚标清
 http://222.217.126.42:8088/udp/239.81.0.75:4056
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="广西南宁电信",四川卫视[785*576]
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="广西南宁电信",四川卫视标清
 http://222.217.126.42:8088/udp/239.81.0.43:4056
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="广西南宁电信",天津卫视[785*576]
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="广西南宁电信",天津卫视标清
 http://222.217.126.42:8088/udp/239.81.0.50:4056
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="广西南宁电信",西藏卫视[785*576]
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="广西南宁电信",西藏卫视标清
 http://222.217.126.42:8088/udp/239.81.0.55:4056
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="广西南宁电信",新疆卫视[785*576]
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="广西南宁电信",新疆卫视标清
 http://222.217.126.42:8088/udp/239.81.0.46:4056
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="广西南宁电信",云南卫视[785*576]
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="广西南宁电信",云南卫视标清
 http://222.217.126.42:8088/udp/239.81.0.45:4056
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="广西南宁电信",浙江卫视[785*576]
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="广西南宁电信",浙江卫视标清
 http://222.217.126.42:8088/udp/239.81.0.31:4056
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="广西南宁电信",重庆卫视[785*576]
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="广西南宁电信",重庆卫视标清
 http://222.217.126.42:8088/udp/239.81.0.47:4056
-#EXTINF:-1,tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" group-title="广西南宁电信",南方卫视[785*576]
+#EXTINF:-1,tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" group-title="广西南宁电信",南方卫视标清
 http://222.217.126.42:8088/udp/239.81.0.32:4056
 #EXTINF:-1,tvg-id="IPTV3+[720*576]" tvg-name="IPTV3+[720*576]" tvg-logo="https://epg.112114.xyz/logo/IPTV3+.png" group-title="广西南宁电信",IPTV3+[720*576]
 http://222.217.126.42:8088/udp/239.81.0.66:4056
@@ -125,7 +125,7 @@ http://222.217.126.42:8088/udp/239.81.0.67:4056
 http://222.217.126.42:8088/udp/239.81.0.17:4056
 #EXTINF:-1,tvg-id="IPTV法制标清" tvg-name="IPTV法制标清" tvg-logo="https://epg.112114.xyz/logo/IPTV法制.png" group-title="广西南宁电信",IPTV法制标清
 http://222.217.126.42:8088/udp/239.81.0.20:4056
-#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="广西南宁电信",IPTV法治天地[785*576]
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="广西南宁电信",IPTV法治天地标清
 http://222.217.126.42:8088/udp/239.81.0.79:4056
 #EXTINF:-1,tvg-id="IPTV健康之路标清" tvg-name="IPTV健康之路标清" tvg-logo="https://epg.112114.xyz/logo/IPTV健康之路.png" group-title="广西南宁电信",IPTV健康之路标清
 http://222.217.126.42:8088/udp/239.81.0.253:4056
@@ -143,49 +143,49 @@ http://222.217.126.42:8088/udp/239.81.0.82:4056
 http://222.217.126.42:8088/udp/239.81.0.18:4056
 #EXTINF:-1,tvg-id="IPTV足球标清" tvg-name="IPTV足球标清" tvg-logo="https://epg.112114.xyz/logo/IPTV足球.png" group-title="广西南宁电信",IPTV足球标清
 http://222.217.126.42:8088/udp/239.81.0.97:4056
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="广西南宁电信",动漫秀场[785*576]
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="广西南宁电信",动漫秀场标清
 http://222.217.126.42:8088/udp/239.81.0.68:4056
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="广西南宁电信",都市剧场[785*576]
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="广西南宁电信",都市剧场标清
 http://222.217.126.42:8088/udp/239.81.0.81:4056
-#EXTINF:-1,tvg-id="聚沙鲨环球精选[785*576]" tvg-name="聚沙鲨环球精选[785*576]" tvg-logo="https://epg.112114.xyz/logo/聚沙鲨环球精选.png" group-title="广西南宁电信",聚沙鲨环球精选[785*576]
+#EXTINF:-1,tvg-id="聚沙鲨环球精选标清" tvg-name="聚沙鲨环球精选标清" tvg-logo="https://epg.112114.xyz/logo/聚沙鲨环球精选.png" group-title="广西南宁电信",聚沙鲨环球精选标清
 http://222.217.126.42:8088/udp/239.81.0.98:4056
-#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="广西南宁电信",极速汽车[785*576]
+#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="广西南宁电信",极速汽车标清
 http://222.217.126.42:8088/udp/239.81.0.73:4056
-#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="广西南宁电信",金色学堂[785*576]
+#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="广西南宁电信",金色学堂标清
 http://222.217.126.42:8088/udp/239.81.0.80:4056
-#EXTINF:-1,tvg-id="网络棋牌" tvg-name="网络棋牌" tvg-logo="https://epg.112114.xyz/logo/网络棋牌.png" group-title="广西南宁电信",网络棋牌[785*576]
+#EXTINF:-1,tvg-id="网络棋牌" tvg-name="网络棋牌" tvg-logo="https://epg.112114.xyz/logo/网络棋牌.png" group-title="广西南宁电信",网络棋牌标清
 http://222.217.126.42:8088/udp/239.81.0.237:4056
 #EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="广西南宁电信",先锋乒羽标清
 http://222.217.126.42:8088/udp/239.81.0.236:4056
 #EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="广西南宁电信",新动漫标清
 http://222.217.126.42:8088/udp/239.81.0.235:4056
-#EXTINF:-1,tvg-id="央广购物[785*576]" tvg-name="央广购物[785*576]" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="广西南宁电信",央广购物[785*576]
+#EXTINF:-1,tvg-id="央广购物标清" tvg-name="央广购物标清" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="广西南宁电信",央广购物标清
 http://222.217.126.42:8088/udp/239.81.0.131:4056
-#EXTINF:-1,tvg-id="优购物[785*576]" tvg-name="优购物[785*576]" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="广西南宁电信",优购物[785*576]
+#EXTINF:-1,tvg-id="优购物标清" tvg-name="优购物标清" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="广西南宁电信",优购物标清
 http://222.217.126.42:8088/udp/239.81.0.132:4056
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="广西南宁电信",游戏风云[785*576]
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="广西南宁电信",游戏风云标清
 http://222.217.126.42:8088/udp/239.81.0.72:4056
-#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="广西南宁电信",中国天气[785*576]
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="广西南宁电信",中国天气标清
 http://222.217.126.42:8088/udp/239.81.0.63:4056
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="广西南宁电信",全纪实[785*576]
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="广西南宁电信",全纪实标清
 http://222.217.126.42:8088/udp/239.81.0.78:4056
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="广西南宁电信",七彩戏剧[785*576]
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="广西南宁电信",七彩戏剧标清
 http://222.217.126.42:8088/udp/239.81.0.70:4056
-#EXTINF:-1,tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://epg.112114.xyz/logo/广西都市.png" group-title="广西南宁电信",广西都市[785*576]
+#EXTINF:-1,tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://epg.112114.xyz/logo/广西都市.png" group-title="广西南宁电信",广西都市标清
 http://222.217.126.42:8088/udp/239.81.0.4:4056
 #EXTINF:-1,tvg-id="广西国际标清" tvg-name="广西国际标清" tvg-logo="https://epg.112114.xyz/logo/广西国际.png" group-title="广西南宁电信",广西国际标清
 http://222.217.126.42:8088/udp/239.81.0.8:4056
-#EXTINF:-1,tvg-id="广西科教[785*576]" tvg-name="广西科教[785*576]" tvg-logo="https://epg.112114.xyz/logo/广西科教.png" group-title="广西南宁电信",广西科教[785*576]
+#EXTINF:-1,tvg-id="广西科教标清" tvg-name="广西科教标清" tvg-logo="https://epg.112114.xyz/logo/广西科教.png" group-title="广西南宁电信",广西科教标清
 http://222.217.126.42:8088/udp/239.81.0.11:4056
-#EXTINF:-1,tvg-id="广西乐思购[785*576]" tvg-name="广西乐思购[785*576]" tvg-logo="https://epg.112114.xyz/logo/广西乐思购.png" group-title="广西南宁电信",广西乐思购[785*576]
+#EXTINF:-1,tvg-id="广西乐思购标清" tvg-name="广西乐思购标清" tvg-logo="https://epg.112114.xyz/logo/广西乐思购.png" group-title="广西南宁电信",广西乐思购标清
 http://222.217.126.42:8088/udp/239.81.0.9:4056
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="广西南宁电信",广西卫视[785*576]
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="广西南宁电信",广西卫视标清
 http://222.217.126.42:8088/udp/239.81.0.2:4056
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="广西南宁电信",广西卫视[785*576]
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="广西南宁电信",广西卫视标清
 http://222.217.126.42:8088/udp/239.81.0.7:4056
-#EXTINF:-1,tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="广西南宁电信",广西新闻[785*576]
+#EXTINF:-1,tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="广西南宁电信",广西新闻标清
 http://222.217.126.42:8088/udp/239.81.0.5:4056
-#EXTINF:-1,tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.xyz/logo/广西综艺旅游.png" group-title="广西南宁电信",广西综艺旅游[785*576]
+#EXTINF:-1,tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.xyz/logo/广西综艺旅游.png" group-title="广西南宁电信",广西综艺旅游标清
 http://222.217.126.42:8088/udp/239.81.0.3:4056
 #EXTINF:-1,tvg-id="南宁都市生活标清" tvg-name="南宁都市生活标清" tvg-logo="https://epg.112114.xyz/logo/南宁都市生活.png" group-title="广西南宁电信",南宁都市生活标清
 http://222.217.126.42:8088/udp/239.81.0.127:4056
@@ -199,9 +199,9 @@ http://222.217.126.42:8088/udp/239.81.0.128:4056
 http://222.217.126.42:8088/udp/239.81.0.138:4056
 #EXTINF:-1,tvg-id="梧州新闻综合标清" tvg-name="梧州新闻综合标清" tvg-logo="https://epg.112114.xyz/logo/梧州新闻综合.png" group-title="广西南宁电信",梧州新闻综合标清
 http://222.217.126.42:8088/udp/239.81.0.244:4056
-#EXTINF:-1,tvg-id="北海新闻综合[785*576]" tvg-name="北海新闻综合[785*576]" tvg-logo="https://epg.112114.xyz/logo/北海新闻综合.png" group-title="广西南宁电信",北海新闻综合[785*576]
+#EXTINF:-1,tvg-id="北海新闻综合标清" tvg-name="北海新闻综合标清" tvg-logo="https://epg.112114.xyz/logo/北海新闻综合.png" group-title="广西南宁电信",北海新闻综合标清
 http://222.217.126.42:8088/udp/239.81.0.136:4056
-#EXTINF:-1,tvg-id="贺州综合[785*576]" tvg-name="贺州综合[785*576]" tvg-logo="https://epg.112114.xyz/logo/贺州综合.png" group-title="广西南宁电信",贺州综合[785*576]
+#EXTINF:-1,tvg-id="贺州综合标清" tvg-name="贺州综合标清" tvg-logo="https://epg.112114.xyz/logo/贺州综合.png" group-title="广西南宁电信",贺州综合标清
 http://222.217.126.42:8088/udp/239.81.0.137:4056
 #EXTINF:-1,tvg-id="桂林新闻综合[1024*576]" tvg-name="桂林新闻综合[1024*576]" tvg-logo="https://epg.112114.xyz/logo/桂林新闻综合.png" group-title="广西南宁电信",桂林新闻综合[1024*576]
 http://222.217.126.42:8088/udp/239.81.0.135:4056
@@ -299,7 +299,7 @@ http://222.217.126.42:8088/udp/239.81.0.113:4056
 http://222.217.126.42:8088/udp/239.81.0.100:4056
 #EXTINF:-1,tvg-id="GTV游戏竞技" tvg-name="GTV游戏竞技" tvg-logo="https://epg.112114.xyz/logo/GTV游戏竞技.png" group-title="广西南宁电信",游戏高清
 http://222.217.126.42:8088/udp/239.81.0.203:4056
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="广西南宁电信",游戏风云？高清
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="广西南宁电信",游戏风云高清
 http://222.217.126.42:8088/udp/239.81.0.201:4056
 #EXTINF:-1,tvg-id="体育频道高清" tvg-name="体育频道高清" tvg-logo="https://epg.112114.xyz/logo/体育频道.png" group-title="广西南宁电信",体育频道高清
 http://222.217.126.42:8088/udp/239.81.0.69:4056
@@ -309,9 +309,9 @@ http://222.217.126.42:8088/udp/239.81.0.243:4056
 http://222.217.126.42:8088/udp/239.81.0.202:4056
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="广西南宁电信",CHC动作电影高清
 http://222.217.126.42:8088/udp/239.81.0.239:4056
-#EXTINF:-1,tvg-id="CHD高清电影高清" tvg-name="CHD高清电影高清" tvg-logo="https://epg.112114.xyz/logo/CHD高清电影.png" group-title="广西南宁电信",CHD高清电影高清
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="广西南宁电信",CHC高清电影高清
 http://222.217.126.42:8088/udp/239.81.0.240:4056
-#EXTINF:-1,tvg-id="CHD家庭影院高清" tvg-name="CHD家庭影院高清" tvg-logo="https://epg.112114.xyz/logo/CHD家庭影院.png" group-title="广西南宁电信",CHD家庭影院高清
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="广西南宁电信",CHC家庭影院高清
 http://222.217.126.42:8088/udp/239.81.0.238:4056
 #EXTINF:-1,tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://epg.112114.xyz/logo/广西都市.png" group-title="广西南宁电信",广西都市高清
 http://222.217.126.42:8088/udp/239.81.0.247:4056
@@ -333,11 +333,11 @@ http://222.217.126.42:8088/udp/239.81.0.141:4056
 http://222.217.126.42:8088/udp/239.81.0.241:4056
 #EXTINF:-1,tvg-id="南宁影视娱乐高清" tvg-name="南宁影视娱乐高清" tvg-logo="https://epg.112114.xyz/logo/南宁影视娱乐.png" group-title="广西南宁电信",南宁影视娱乐高清
 http://222.217.126.42:8088/udp/239.81.0.140:4056
-#EXTINF:-1,tvg-id="4K测试[3840*2160]" tvg-name="4K测试[3840*2160]" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="广西南宁电信",4K测试[3840*2160]
+#EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="广西南宁电信",4K测试
 http://222.217.126.42:8088/udp/239.81.0.123:4056
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广西南宁电信",CCTV16奥林匹克4K-1[3840*2160]
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广西南宁电信",CCTV16奥林匹克4K
 http://222.217.126.42:8088/udp/239.81.0.144:4056
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广西南宁电信",CCTV16奥林匹克4K-2[3840*2160]
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="广西南宁电信",CCTV16奥林匹克4K
 http://222.217.126.42:8088/udp/239.81.0.145:4056
 #EXTM3U
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="湖南常德电信",湖南卫视超清	
