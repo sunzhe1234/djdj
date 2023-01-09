@@ -1,33 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",港台电视 31
-http://223.16.156.251:9981/stream/channelid/1364437368?ticket=993094e1e59d59301fbe032a150790dac8ee8cb4&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",港台电视 32
-http://223.16.156.251:9981/stream/channelid/634964904?ticket=a753524a97f213acb02d215665f57b2474d8aa18&profile=pass
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="香港地面波",中央电视台综合频道(CCTV-1综合)
-http://223.16.156.251:9981/stream/channelid/267760086?ticket=5aaed7e638c6deb5554253385d130fa8db6746a2&profile=pass
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="香港地面波",中国环球电视网纪录频道 (CGTN纪录频道)
-http://223.16.156.251:9981/stream/channelid/1058443653?ticket=294c27d5b45fcc76f877ec9ab29ec7d403d23251&profile=pass
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="香港地面波",*香港国际财经台
-http://223.16.156.251:9981/stream/channelid/263309731?ticket=8dc9931877ad435bfb87bf0520aeb2b7bead17a6&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",*HOY TV
-http://223.16.156.251:9981/stream/channelid/1327748868?ticket=e3eee925b23c7c0dc212327019eeb92d8fa013ea&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",*HOY 资讯台
-http://223.16.156.251:9981/stream/channelid/1648721832?ticket=925b52364fbfb544d6897dcb32bf1eb74b35bad7&profile=pass
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港地面波",翡翠台
-http://223.16.156.251:9981/stream/channelid/328191905?ticket=9df700658efcc74cb81d0d4e28c54c237a7d9143&profile=pass
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港地面波",J2台
-http://223.16.156.251:9981/stream/channelid/617422818?ticket=5c5be700338e1c8a907ad0faf0d3ca01ef0bf6d9&profile=pass
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波",无线新闻台
-http://223.16.156.251:9981/stream/channelid/365902720?ticket=33e9fce37b65771fe858ba6297929d2cc4da5d32&profile=pass
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港地面波",明珠台
-http://223.16.156.251:9981/stream/channelid/1797425530?ticket=2fe511cbb60276f698a59dfaada2fdf8db124842&profile=pass
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港地面波",无线财经 体育 资讯台
-http://223.16.156.251:9981/stream/channelid/1777405998?ticket=45a6609ddfae823d4602fd2e9165538b7242be88&profile=pass
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波",ViuTVsix
-http://223.16.156.251:9981/stream/channelid/2063738677?ticket=2403c4838543612316146c3ae77503fd48a5188b&profile=pass
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波",ViuTV
-http://223.16.156.251:9981/stream/channelid/563491669?ticket=17b1d336a7bb2b6e42cd30e48b6332ee1a84e3a4&profile=pass
-#EXTM3U
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="湖南常德电信",湖南卫视超清	
 http://124.230.185.124:8000/udp/239.76.253.100:9000
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="湖南常德电信",湖南卫视超清	
@@ -23762,37 +23733,31 @@ http://113.83.152.71:8000/udp/239.253.43.254:5146
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/31.png" group-title="广东惠州电信",			31
 http://113.83.152.71:8000/udp/239.253.43.255:51467
 #EXTM3U
-#EXTINF:-1,tvg-id="港台電視 31" tvg-name="港台電視 31" tvg-logo="https://epg.112114.xyz/logo/港台電視31.png" group-title="香港地面波",港台電視 31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",港台电视 31
 http://223.16.156.251:9981/stream/channelid/1364437368?ticket=993094e1e59d59301fbe032a150790dac8ee8cb4&profile=pass
-#EXTINF:-1,tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://epg.112114.xyz/logo/港台電視32.png" group-title="香港地面波",港台電視 32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",港台电视 32
 http://223.16.156.251:9981/stream/channelid/634964904?ticket=a753524a97f213acb02d215665f57b2474d8aa18&profile=pass
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="香港地面波",中央電視台綜合頻道（CCTV-1綜合)
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="香港地面波",中央电视台综合频道(CCTV-1综合)
 http://223.16.156.251:9981/stream/channelid/267760086?ticket=5aaed7e638c6deb5554253385d130fa8db6746a2&profile=pass
-#EXTINF:-1,tvg-id="中國環球電視網紀錄頻道 (CGTN紀錄頻道)" tvg-name="中國環球電視網紀錄頻道 (CGTN紀錄頻道)" tvg-logo="https://epg.112114.xyz/logo/中國環球電視網紀錄頻道(CGTN紀錄頻道).png" group-title="香港地面波",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="香港地面波",中国环球电视网纪录频道 (CGTN纪录频道)
 http://223.16.156.251:9981/stream/channelid/1058443653?ticket=294c27d5b45fcc76f877ec9ab29ec7d403d23251&profile=pass
-#EXTINF:-1,tvg-id="*香港國際財經台" tvg-name="*香港國際財經台" tvg-logo="https://epg.112114.xyz/logo/*香港國際財經台.png" group-title="香港",*香港國際財經台
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="香港地面波",*香港国际财经台
 http://223.16.156.251:9981/stream/channelid/263309731?ticket=8dc9931877ad435bfb87bf0520aeb2b7bead17a6&profile=pass
-#EXTINF:-1,tvg-id="香港國際財經台" tvg-name="香港國際財經台" tvg-logo="https://epg.112114.xyz/logo/香港國際財經台.png" group-title="香港",香港國際財經台
-http://223.16.156.251:9981/stream/channelid/147478097?ticket=fa167aec0cc326a3c40f6cfa67e590d6a3902d8f&profile=pass
-#EXTINF:-1,tvg-id="*HOY TV" tvg-name="*HOY TV" tvg-logo="https://epg.112114.xyz/logo/*HOYTV.png" group-title="香港地面波",*HOY TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",*HOY TV
 http://223.16.156.251:9981/stream/channelid/1327748868?ticket=e3eee925b23c7c0dc212327019eeb92d8fa013ea&profile=pass
-#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="香港地面波",HOY TV
-http://223.16.156.251:9981/stream/channelid/174250105?ticket=63a62c7aa57fce99db96de4e8cb5aa650e4dee5b&profile=pass
-#EXTINF:-1,tvg-id="*HOY 資訊台" tvg-name="*HOY 資訊台" tvg-logo="https://epg.112114.xyz/logo/*HOY資訊台.png" group-title="香港地面波",*HOY 資訊台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",*HOY 资讯台
 http://223.16.156.251:9981/stream/channelid/1648721832?ticket=925b52364fbfb544d6897dcb32bf1eb74b35bad7&profile=pass
-#EXTINF:-1,tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://epg.112114.xyz/logo/HOY資訊台.png" group-title="香港地面波",HOY 資訊台
-http://223.16.156.251:9981/stream/channelid/1017496515?ticket=2161e1c81c985a1b05bf1b52271edf7ccc3f91fa&profile=pass
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港地面波",翡翠台
 http://223.16.156.251:9981/stream/channelid/328191905?ticket=9df700658efcc74cb81d0d4e28c54c237a7d9143&profile=pass
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港地面波",J2台
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港地面波",J2台
 http://223.16.156.251:9981/stream/channelid/617422818?ticket=5c5be700338e1c8a907ad0faf0d3ca01ef0bf6d9&profile=pass
-#EXTINF:-1,tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="香港地面波",無綫新聞台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波",无线新闻台
 http://223.16.156.251:9981/stream/channelid/365902720?ticket=33e9fce37b65771fe858ba6297929d2cc4da5d32&profile=pass
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港地面波",明珠台
 http://223.16.156.251:9981/stream/channelid/1797425530?ticket=2fe511cbb60276f698a59dfaada2fdf8db124842&profile=pass
-#EXTINF:-1,tvg-id="無綫財經 體育 資訊台" tvg-name="無綫財經 體育 資訊台" tvg-logo="https://epg.112114.xyz/logo/無綫財經體育資訊台.png" group-title="香港地面波",無綫財經 體育 資訊台
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港地面波",无线财经 体育 资讯台
 http://223.16.156.251:9981/stream/channelid/1777405998?ticket=45a6609ddfae823d4602fd2e9165538b7242be88&profile=pass
-#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="香港地面波",ViuTVsix
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波",ViuTVsix
 http://223.16.156.251:9981/stream/channelid/2063738677?ticket=2403c4838543612316146c3ae77503fd48a5188b&profile=pass
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港地面波",ViuTV
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波",ViuTV
 http://223.16.156.251:9981/stream/channelid/563491669?ticket=17b1d336a7bb2b6e42cd30e48b6332ee1a84e3a4&profile=pass
