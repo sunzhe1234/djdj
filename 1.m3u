@@ -24733,3 +24733,1042 @@ http://111.164.255.181:8686/udp/225.1.2.119:5002
 http://111.164.255.181:8686/udp/225.1.2.197:5002
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="天津联通",中视购物
 http://111.164.255.181:8686/udp/225.1.2.85:5002
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="山东电信",CCTV4中文国际美洲HD
+http://182.38.179.188:4000/udp/239.21.2.29:5002
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="山东电信",CCTV6电影HD
+http://182.38.179.188:4000/udp/239.21.2.47:5002
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="山东电信",CCTV5体育HD
+http://182.38.179.188:4000/udp/239.21.2.46:5002
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="山东电信",CCTV7国防军事HD
+http://182.38.179.188:4000/udp/239.21.1.152:5002
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="山东电信",CCTV2财经HD
+http://182.38.179.188:4000/udp/239.21.1.151:5002
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="山东电信",CCTV1综合HD
+http://182.38.179.188:4000/udp/239.21.1.120:5002
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="山东电信",CCTV3综艺HD
+http://182.38.179.188:4000/udp/239.21.2.45:5002
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="山东电信",CCTV5+体育赛事HD
+http://182.38.179.188:4000/udp/239.21.1.142:5002
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="山东电信",CCTV4中文国际欧洲HD
+http://182.38.179.188:4000/udp/239.21.2.28:5002
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="山东电信",CCTV4中文国际HD
+http://182.38.179.188:4000/udp/239.21.1.154:5002
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="山东电信",CCTV17农业农村HD
+http://182.38.179.188:4000/udp/239.21.1.186:5002
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="山东电信",CCTV8电视剧HD
+http://182.38.179.188:4000/udp/239.21.2.48:5002
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="山东电信",CCTV9纪录HD
+http://182.38.179.188:4000/udp/239.21.1.153:5002
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="山东电信",CCTV12社会与法HD
+http://182.38.179.188:4000/udp/239.21.1.156:5002
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="山东电信",CCTV14少儿HD
+http://182.38.179.188:4000/udp/239.21.1.157:5002
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="山东电信",CCTV11戏曲HD
+http://182.38.179.188:4000/udp/239.21.2.2:5002
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="山东电信",CCTV10科教HD
+http://182.38.179.188:4000/udp/239.21.1.155:5002
+#EXTINF:-1,tvg-id="CGTN纪实HD" tvg-name="CGTN纪实HD" tvg-logo="https://epg.112114.xyz/logo/CGTN纪实.png" group-title="山东电信",CGTN纪实HD
+http://182.38.179.188:4000/udp/239.21.2.31:5002
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="山东电信",CCTV15音乐HD
+http://182.38.179.188:4000/udp/239.21.2.4:5002
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="山东电信",CGTNHD
+http://182.38.179.188:4000/udp/239.21.2.30:5002
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="山东电信",CCTV16奥林匹克HD
+http://182.38.179.188:4000/udp/239.21.2.51:5002
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="山东电信",CCTV13新闻HD
+http://182.38.179.188:4000/udp/239.21.2.3:5002
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="山东电信",CCTV16奥林匹克4K
+http://182.38.179.188:4000/udp/239.21.2.54:5002
+#EXTINF:-1,tvg-id="CGTN阿拉伯语HD" tvg-name="CGTN阿拉伯语HD" tvg-logo="https://epg.112114.xyz/logo/CGTN阿拉伯语.png" group-title="山东电信",CGTN阿拉伯语HD
+http://182.38.179.188:4000/udp/239.21.2.34:5002
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="山东电信",CCTV2财经
+http://182.38.179.188:4000/udp/239.21.1.2:5002
+#EXTINF:-1,tvg-id="CCTV4K-02" tvg-name="CCTV4K-02" tvg-logo="https://epg.112114.xyz/logo/CCTV4K02.png" group-title="山东电信",CCTV4K-02
+http://liveop.cctv.cn/hls/4Khd/playlist.m3u8
+#EXTINF:-1,tvg-id="CCTV4K-01" tvg-name="CCTV4K-01" tvg-logo="https://epg.112114.xyz/logo/CCTV4K01.png" group-title="山东电信",CCTV4K-01
+http://weipeng.org/cctv4k.php
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="山东电信",CCTV16奥林匹克4K-02
+http://liveop.cctv.cn/hls/CCTV16hd/playlist.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="山东电信",CCTV16奥林匹克4K-01
+http://weipeng.org/cctv164k.php
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="山东电信",CGTN俄语HD
+http://182.38.179.188:4000/udp/239.21.2.35:5002
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="山东电信",CCTV4中文国际
+http://182.38.179.188:4000/udp/239.21.1.4:5002
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="山东电信",CGTN法语HD
+http://182.38.179.188:4000/udp/239.21.2.33:5002
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="山东电信",CCTV5+体育赛事
+http://182.38.179.188:4000/udp/239.21.1.190:5002
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="山东电信",CCTV3综艺
+http://182.38.179.188:4000/udp/239.21.1.3:5002
+#EXTINF:-1,tvg-id="CGTN西班牙语HD" tvg-name="CGTN西班牙语HD" tvg-logo="https://epg.112114.xyz/logo/CGTN西班牙语.png" group-title="山东电信",CGTN西班牙语HD
+http://182.38.179.188:4000/udp/239.21.2.32:5002
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="山东电信",CCTV5体育
+http://182.38.179.188:4000/udp/239.21.1.5:5002
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="山东电信",CCTV1综合
+http://182.38.179.188:4000/udp/239.21.1.1:5002
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="山东电信",CCTV12社会与法
+http://182.38.179.188:4000/udp/239.21.1.13:5002
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="山东电信",CCTV13新闻-02
+http://182.38.179.188:4000/udp/239.21.2.1:5002
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="山东电信",江苏卫视HD
+http://182.38.179.188:4000/udp/239.21.1.89:5002
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="山东电信",山东卫视HD
+http://182.38.179.188:4000/udp/239.21.1.87:5002
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="山东电信",CGTN
+http://182.38.179.188:4000/udp/239.21.1.10:5002
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="山东电信",CCTV7国防军事
+http://182.38.179.188:4000/udp/239.21.1.7:5002
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="山东电信",CCTV15音乐
+http://182.38.179.188:4000/udp/239.21.1.16:5002
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="山东电信",CCTV14少儿
+http://182.38.179.188:4000/udp/239.21.1.15:5002
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="山东电信",CCTV11戏曲
+http://182.38.179.188:4000/udp/239.21.1.12:5002
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="山东电信",CCTV9纪录
+http://182.38.179.188:4000/udp/239.21.1.9:5002
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="山东电信",北京卫视HD
+http://182.38.179.188:4000/udp/239.21.1.88:5002
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="山东电信",CCTV8电视剧
+http://182.38.179.188:4000/udp/239.21.1.8:5002
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="山东电信",CCTV6电影
+http://182.38.179.188:4000/udp/239.21.1.6:5002
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="山东电信",CCTV13新闻-01
+http://182.38.179.188:4000/udp/239.21.1.14:5002
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="山东电信",CCTV10科教
+http://182.38.179.188:4000/udp/239.21.1.11:5002
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="山东电信",黑龙江卫视HD
+http://182.38.179.188:4000/udp/239.21.1.91:5002
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="山东电信",东南卫视HD
+http://182.38.179.188:4000/udp/239.21.1.113:5002
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="山东电信",河南卫视HD
+http://182.38.179.188:4000/udp/239.21.2.37:5002
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="山东电信",湖北卫视HD
+http://182.38.179.188:4000/udp/239.21.1.163:5002
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="山东电信",安徽卫视HD
+http://182.38.179.188:4000/udp/239.21.1.159:5002
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="山东电信",东方卫视HD
+http://182.38.179.188:4000/udp/239.21.1.111:5002
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="山东电信",湖南卫视HD
+http://182.38.179.188:4000/udp/239.21.1.158:5002
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="山东电信",辽宁卫视HD
+http://182.38.179.188:4000/udp/239.21.1.164:5002
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="山东电信",浙江卫视HD
+http://182.38.179.188:4000/udp/239.21.1.90:5002
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="山东电信",重庆卫视HD-02
+http://182.38.179.188:4000/udp/239.21.1.206:5002
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="山东电信",重庆卫视HD-01
+http://182.38.179.188:4000/udp/239.21.1.233:5002
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="山东电信",贵州卫视HD
+http://182.38.179.188:4000/udp/239.21.1.166:5002
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="山东电信",天津卫视HD
+http://182.38.179.188:4000/udp/239.21.1.165:5002
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="山东电信",四川卫视HD
+http://182.38.179.188:4000/udp/239.21.2.15:5002
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="山东电信",河北卫视HD
+http://182.38.179.188:4000/udp/239.21.1.168:5002
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="山东电信",甘肃卫视HD-01
+http://182.38.179.188:4000/udp/239.21.2.22:5002
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="山东电信",海南卫视HD
+http://182.38.179.188:4000/udp/239.21.2.14:5002
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="山东电信",湖南卫视
+http://182.38.179.188:4000/udp/239.21.1.18:5002
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="山东电信",江苏卫视
+http://182.38.179.188:4000/udp/239.21.1.19:5002
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="山东电信",北京卫视
+http://182.38.179.188:4000/udp/239.21.1.20:5002
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="山东电信",广东卫视HD
+http://182.38.179.188:4000/udp/239.21.1.92:5002
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="山东电信",江西卫视HD
+http://182.38.179.188:4000/udp/239.21.1.167:5002
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="山东电信",山东卫视
+http://182.38.179.188:4000/udp/239.21.1.52:5002
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="山东电信",浙江卫视
+http://182.38.179.188:4000/udp/239.21.1.17:5002
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="山东电信",甘肃卫视HD-02
+http://182.38.179.188:4000/udp/239.21.2.55:5002
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="山东电信",吉林卫视HD
+http://182.38.179.188:4000/udp/239.21.2.49:5002
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="山东电信",安徽卫视
+http://182.38.179.188:4000/udp/239.21.1.21:5002
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="山东电信",深圳卫视HD
+http://182.38.179.188:4000/udp/239.21.1.93:5002
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="山东电信",广东卫视
+http://182.38.179.188:4000/udp/239.21.1.26:5002
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="山东电信",河北卫视
+http://182.38.179.188:4000/udp/239.21.1.35:5002
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="山东电信",天津卫视
+http://182.38.179.188:4000/udp/239.21.1.22:5002
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="山东电信",海南卫视
+http://182.38.179.188:4000/udp/239.21.1.31:5002
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="山东电信",江西卫视
+http://182.38.179.188:4000/udp/239.21.1.36:5002
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="山东电信",深圳卫视
+http://182.38.179.188:4000/udp/239.21.1.25:5002
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="山东电信",东方卫视
+http://182.38.179.188:4000/udp/239.21.1.23:5002
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="山东电信",黑龙江卫视
+http://182.38.179.188:4000/udp/239.21.1.28:5002
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="山东电信",东南卫视
+http://182.38.179.188:4000/udp/239.21.1.29:5002
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="山东电信",重庆卫视
+http://182.38.179.188:4000/udp/239.21.1.24:5002
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="山东电信",辽宁卫视
+http://182.38.179.188:4000/udp/239.21.1.27:5002
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="山东电信",山西卫视
+http://182.38.179.188:4000/udp/239.21.1.33:5002
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="山东电信",湖北卫视
+http://182.38.179.188:4000/udp/239.21.1.32:5002
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="山东电信",四川卫视
+http://182.38.179.188:4000/udp/239.21.1.34:5002
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="山东电信",陕西卫视
+http://182.38.179.188:4000/udp/239.21.1.30:5002
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="山东电信",三沙卫视
+http://182.38.179.188:4000/udp/239.21.2.9:5002
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" group-title="山东电信",山东少儿HD
+http://182.38.179.188:4000/udp/239.21.1.208:5002
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="山东电信",新疆卫视
+http://182.38.179.188:4000/udp/239.21.1.45:5002
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="山东电信",西藏卫视
+http://182.38.179.188:4000/udp/239.21.1.46:5002
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="山东电信",山东综艺HD
+http://182.38.179.188:4000/udp/239.21.1.177:5002
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="山东电信",山东体育HD
+http://182.38.179.188:4000/udp/239.21.1.141:5002
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="山东电信",内蒙古卫视
+http://182.38.179.188:4000/udp/239.21.1.41:5002
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="山东电信",青海卫视
+http://182.38.179.188:4000/udp/239.21.1.43:5002
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="山东电信",广西卫视
+http://182.38.179.188:4000/udp/239.21.1.39:5002
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="山东电信",山东新闻HD
+http://182.38.179.188:4000/udp/239.21.1.140:5002
+#EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://epg.112114.xyz/logo/陕西农林卫视.png" group-title="山东电信",农林卫视
+http://182.38.179.188:4000/udp/239.21.1.235:5002
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="山东电信",山东卫视HD
+http://182.38.179.188:4000/udp/239.21.1.87:5002
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="山东电信",宁夏卫视
+http://182.38.179.188:4000/udp/239.21.1.44:5002
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="山东电信",甘肃卫视
+http://182.38.179.188:4000/udp/239.21.1.47:5002
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="山东电信",厦门卫视
+http://182.38.179.188:4000/udp/239.21.2.6:5002
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="山东电信",贵州卫视
+http://182.38.179.188:4000/udp/239.21.1.42:5002
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="山东电信",兵团卫视
+http://182.38.179.188:4000/udp/239.21.1.234:5002
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="山东电信",河南卫视
+http://182.38.179.188:4000/udp/239.21.1.38:5002
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="山东电信",云南卫视
+http://182.38.179.188:4000/udp/239.21.1.40:5002
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="山东电信",吉林卫视
+http://182.38.179.188:4000/udp/239.21.1.37:5002
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="山东电信",山东农科HD
+http://182.38.179.188:4000/udp/239.21.1.183:5002
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东电信",山东齐鲁
+http://182.38.179.188:4000/udp/239.21.1.53:5002
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" group-title="山东电信",山东文旅HD
+http://182.38.179.188:4000/udp/239.21.1.176:5002
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="山东电信",金鹰卡通
+http://182.38.179.188:4000/udp/239.21.1.48:5002
+#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" group-title="山东电信",山东生活
+http://182.38.179.188:4000/udp/239.21.1.56:5002
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="山东电信",卡酷少儿
+http://182.38.179.188:4000/udp/239.21.1.49:5002
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="山东电信",山东综艺
+http://182.38.179.188:4000/udp/239.21.1.55:5002
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="山东电信",山东教育卫视
+http://182.38.179.188:4000/udp/239.21.1.101:5002
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="山东电信",山东农科
+http://182.38.179.188:4000/udp/239.21.1.59:5002
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东电信",山东齐鲁HD
+http://182.38.179.188:4000/udp/239.21.1.134:5002
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="山东电信",山东体育
+http://182.38.179.188:4000/udp/239.21.1.58:5002
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" group-title="山东电信",山东少儿
+http://182.38.179.188:4000/udp/239.21.1.60:5002
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="山东电信",山东教育卫视HD
+http://182.38.179.188:4000/udp/239.21.1.169:5002
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="山东电信",优漫卡通
+http://182.38.179.188:4000/udp/239.21.1.50:5002
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="山东电信",山东卫视
+http://182.38.179.188:4000/udp/239.21.1.52:5002
+#EXTINF:-1,tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://epg.112114.xyz/logo/山东居家购物.png" group-title="山东电信",山东居家购物
+http://182.38.179.188:4000/udp/239.21.1.112:5002
+#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" group-title="山东电信",山东生活HD
+http://182.38.179.188:4000/udp/239.21.1.175:5002
+#EXTINF:-1,tvg-id="山东国际" tvg-name="山东国际" tvg-logo="https://epg.112114.xyz/logo/山东国际.png" group-title="山东电信",山东国际(停播)
+http://182.38.179.188:4000/udp/239.21.1.61:5002
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="山东电信",山东新闻
+http://182.38.179.188:4000/udp/239.21.1.54:5002
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" group-title="山东电信",山东文旅
+http://182.38.179.188:4000/udp/239.21.1.57:5002
+#EXTINF:-1,tvg-id="青岛QTV-2" tvg-name="青岛QTV-2" tvg-logo="https://epg.112114.xyz/logo/青岛QTV2.png" group-title="山东电信",青岛QTV-2
+http://182.38.179.188:4000/udp/239.21.1.70:5002
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="山东电信",嘉佳卡通
+http://182.38.179.188:4000/udp/239.21.2.5:5002
+#EXTINF:-1,tvg-id="济南科教" tvg-name="济南科教" tvg-logo="https://epg.112114.xyz/logo/济南科教.png" group-title="山东电信",济南科教
+http://182.38.179.188:4000/udp/239.21.1.150:5002
+#EXTINF:-1,tvg-id="济南新闻综合HD" tvg-name="济南新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/济南新闻综合.png" group-title="山东电信",济南新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.94:5002
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="山东电信",哈哈炫动
+http://182.38.179.188:4000/udp/239.21.1.51:5002
+#EXTINF:-1,tvg-id="德州新闻综合HD" tvg-name="德州新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/德州新闻综合.png" group-title="山东电信",德州新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.75:5002
+#EXTINF:-1,tvg-id="青岛QTV-1" tvg-name="青岛QTV-1" tvg-logo="https://epg.112114.xyz/logo/青岛QTV1.png" group-title="山东电信",青岛QTV-1
+http://182.38.179.188:4000/udp/239.21.1.69:5002
+#EXTINF:-1,tvg-id="济南商务" tvg-name="济南商务" tvg-logo="https://epg.112114.xyz/logo/济南商务.png" group-title="山东电信",济南商务
+http://182.38.179.188:4000/udp/239.21.1.67:5002
+#EXTINF:-1,tvg-id="济南鲁中" tvg-name="济南鲁中" tvg-logo="https://epg.112114.xyz/logo/济南鲁中.png" group-title="山东电信",济南鲁中
+http://182.38.179.188:4000/udp/239.21.1.149:5002
+#EXTINF:-1,tvg-id="济南娱乐" tvg-name="济南娱乐" tvg-logo="https://epg.112114.xyz/logo/济南娱乐.png" group-title="山东电信",济南娱乐
+http://182.38.179.188:4000/udp/239.21.1.66:5002
+#EXTINF:-1,tvg-id="青岛QTV-4" tvg-name="青岛QTV-4" tvg-logo="https://epg.112114.xyz/logo/青岛QTV4.png" group-title="山东电信",青岛QTV-4
+http://182.38.179.188:4000/udp/239.21.1.72:5002
+#EXTINF:-1,tvg-id="济南都市" tvg-name="济南都市" tvg-logo="https://epg.112114.xyz/logo/济南都市.png" group-title="山东电信",济南都市
+http://182.38.179.188:4000/udp/239.21.1.63:5002
+#EXTINF:-1,tvg-id="青岛QTV-5" tvg-name="青岛QTV-5" tvg-logo="https://epg.112114.xyz/logo/青岛QTV5.png" group-title="山东电信",青岛QTV-5
+http://182.38.179.188:4000/udp/239.21.1.73:5002
+#EXTINF:-1,tvg-id="济南生活" tvg-name="济南生活" tvg-logo="https://epg.112114.xyz/logo/济南生活.png" group-title="山东电信",济南生活
+http://182.38.179.188:4000/udp/239.21.1.64:5002
+#EXTINF:-1,tvg-id="青岛QTV-3" tvg-name="青岛QTV-3" tvg-logo="https://epg.112114.xyz/logo/青岛QTV3.png" group-title="山东电信",青岛QTV-3
+http://182.38.179.188:4000/udp/239.21.1.71:5002
+#EXTINF:-1,tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="https://epg.112114.xyz/logo/济南新闻综合.png" group-title="山东电信",济南新闻综合
+http://182.38.179.188:4000/udp/239.21.1.62:5002
+#EXTINF:-1,tvg-id="青岛QTV-6教育" tvg-name="青岛QTV-6教育" tvg-logo="https://epg.112114.xyz/logo/青岛QTV6教育.png" group-title="山东电信",青岛QTV-6教育
+http://182.38.179.188:4000/udp/239.21.1.74:5002
+#EXTINF:-1,tvg-id="德州公共HD" tvg-name="德州公共HD" tvg-logo="https://epg.112114.xyz/logo/德州公共.png" group-title="山东电信",德州公共HD
+http://182.38.179.188:4000/udp/239.21.1.76:5002
+#EXTINF:-1,tvg-id="济南教育HD" tvg-name="济南教育HD" tvg-logo="https://epg.112114.xyz/logo/济南教育.png" group-title="山东电信",济南教育HD
+http://182.38.179.188:4000/udp/239.21.1.133:5002
+#EXTINF:-1,tvg-id="济南影视" tvg-name="济南影视" tvg-logo="https://epg.112114.xyz/logo/济南影视.png" group-title="山东电信",济南影视
+http://182.38.179.188:4000/udp/239.21.1.65:5002
+#EXTINF:-1,tvg-id="济南少儿" tvg-name="济南少儿" tvg-logo="https://epg.112114.xyz/logo/济南少儿.png" group-title="山东电信",济南少儿
+http://182.38.179.188:4000/udp/239.21.1.68:5002
+#EXTINF:-1,tvg-id="烟台新闻综合HD" tvg-name="烟台新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/烟台新闻综合.png" group-title="山东电信",烟台新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.116:5002
+#EXTINF:-1,tvg-id="菏泽TV1" tvg-name="菏泽TV1" tvg-logo="https://epg.112114.xyz/logo/菏泽TV1.png" group-title="山东电信",菏泽TV1
+http://182.38.179.188:4000/udp/239.21.1.103:5002
+#EXTINF:-1,tvg-id="夏津综合HD" tvg-name="夏津综合HD" tvg-logo="https://epg.112114.xyz/logo/夏津综合.png" group-title="山东电信",夏津综合HD
+http://182.38.179.188:4000/udp/239.21.1.106:5002
+#EXTINF:-1,tvg-id="东营新闻综合" tvg-name="东营新闻综合" tvg-logo="https://epg.112114.xyz/logo/东营新闻综合.png" group-title="山东电信",东营新闻综合
+http://182.38.179.188:4000/udp/239.21.1.81:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.108:5002
+#EXTINF:-1,tvg-id="长清新闻" tvg-name="长清新闻" tvg-logo="https://epg.112114.xyz/logo/长清新闻.png" group-title="山东电信",长清新闻
+http://182.38.179.188:4000/udp/239.21.1.107:5002
+#EXTINF:-1,tvg-id="东营公共" tvg-name="东营公共" tvg-logo="https://epg.112114.xyz/logo/东营公共.png" group-title="山东电信",东营公共
+http://182.38.179.188:4000/udp/239.21.1.82:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.104:5002
+#EXTINF:-1,tvg-id="沂源新闻" tvg-name="沂源新闻" tvg-logo="https://epg.112114.xyz/logo/沂源新闻.png" group-title="山东电信",沂源新闻
+http://182.38.179.188:4000/udp/239.21.1.114:5002
+#EXTINF:-1,tvg-id="桓台TV-1" tvg-name="桓台TV-1" tvg-logo="https://epg.112114.xyz/logo/桓台TV1.png" group-title="山东电信",桓台TV-1
+http://182.38.179.188:4000/udp/239.21.1.105:5002
+#EXTINF:-1,tvg-id="淄博生活" tvg-name="淄博生活" tvg-logo="https://epg.112114.xyz/logo/淄博生活.png" group-title="山东电信",淄博生活
+http://182.38.179.188:4000/udp/239.21.1.109:5002
+#EXTINF:-1,tvg-id="潍坊TV-2HD" tvg-name="潍坊TV-2HD" tvg-logo="https://epg.112114.xyz/logo/潍坊TV2.png" group-title="山东电信",潍坊TV-2HD
+http://182.38.179.188:4000/udp/239.21.1.78:5002
+#EXTINF:-1,tvg-id="潍坊TV-1HD" tvg-name="潍坊TV-1HD" tvg-logo="https://epg.112114.xyz/logo/潍坊TV1.png" group-title="山东电信",潍坊TV-1HD
+http://182.38.179.188:4000/udp/239.21.1.77:5002
+#EXTINF:-1,tvg-id="夏津公共" tvg-name="夏津公共" tvg-logo="https://epg.112114.xyz/logo/夏津公共.png" group-title="山东电信",夏津公共
+http://182.38.179.188:4000/udp/239.21.1.102:5002
+#EXTINF:-1,tvg-id="淄博科技" tvg-name="淄博科技" tvg-logo="https://epg.112114.xyz/logo/淄博科技.png" group-title="山东电信",淄博科技
+http://182.38.179.188:4000/udp/239.21.1.110:5002
+#EXTINF:-1,tvg-id="淄博新闻HD" tvg-name="淄博新闻HD" tvg-logo="https://epg.112114.xyz/logo/淄博新闻.png" group-title="山东电信",淄博新闻HD
+http://182.38.179.188:4000/udp/239.21.1.84:5002
+#EXTINF:-1,tvg-id="日照科教" tvg-name="日照科教" tvg-logo="https://epg.112114.xyz/logo/日照科教.png" group-title="山东电信",日照科教
+http://182.38.179.188:4000/udp/239.21.1.80:5002
+#EXTINF:-1,tvg-id="菏泽公共TV2" tvg-name="菏泽公共TV2" tvg-logo="https://epg.112114.xyz/logo/菏泽公共TV2.png" group-title="山东电信",菏泽公共TV2
+http://182.38.179.188:4000/udp/239.21.2.18:5002
+#EXTINF:-1,tvg-id="日照新闻综合" tvg-name="日照新闻综合" tvg-logo="https://epg.112114.xyz/logo/日照新闻综合.png" group-title="山东电信",日照新闻综合
+http://182.38.179.188:4000/udp/239.21.1.79:5002
+#EXTINF:-1,tvg-id="淄博都市" tvg-name="淄博都市" tvg-logo="https://epg.112114.xyz/logo/淄博都市.png" group-title="山东电信",淄博都市
+http://182.38.179.188:4000/udp/239.21.1.83:5002
+#EXTINF:-1,tvg-id="文登TV1HD" tvg-name="文登TV1HD" tvg-logo="https://epg.112114.xyz/logo/文登TV1.png" group-title="山东电信",文登TV1HD
+http://182.38.179.188:4000/udp/239.21.1.174:5002
+#EXTINF:-1,tvg-id="济宁教育" tvg-name="济宁教育" tvg-logo="https://epg.112114.xyz/logo/济宁教育.png" group-title="山东电信",济宁教育
+http://182.38.179.188:4000/udp/239.21.1.139:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.137:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.173:5002
+#EXTINF:-1,tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="https://epg.112114.xyz/logo/烟台公共.png" group-title="山东电信",烟台公共
+http://182.38.179.188:4000/udp/239.21.1.117:5002
+#EXTINF:-1,tvg-id="滨州公共" tvg-name="滨州公共" tvg-logo="https://epg.112114.xyz/logo/滨州公共.png" group-title="山东电信",滨州公共
+http://182.38.179.188:4000/udp/239.21.1.119:5002
+#EXTINF:-1,tvg-id="惠民综合" tvg-name="惠民综合" tvg-logo="https://epg.112114.xyz/logo/惠民综合.png" group-title="山东电信",惠民综合
+http://182.38.179.188:4000/udp/239.21.1.181:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.147:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.161:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.148:5002
+#EXTINF:-1,tvg-id="寿光新闻" tvg-name="寿光新闻" tvg-logo="https://epg.112114.xyz/logo/寿光新闻.png" group-title="山东电信",寿光新闻
+http://182.38.179.188:4000/udp/239.21.1.180:5002
+#EXTINF:-1,tvg-id="临沂TV-2" tvg-name="临沂TV-2" tvg-logo="https://epg.112114.xyz/logo/临沂TV2.png" group-title="山东电信",临沂TV-2
+http://182.38.179.188:4000/udp/239.21.1.144:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.136:5002
+#EXTINF:-1,tvg-id="临沂TV-1HD" tvg-name="临沂TV-1HD" tvg-logo="https://epg.112114.xyz/logo/临沂TV1.png" group-title="山东电信",临沂TV-1HD
+http://182.38.179.188:4000/udp/239.21.1.143:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.121:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.160:5002
+#EXTINF:-1,tvg-id="滨州新闻综合" tvg-name="滨州新闻综合" tvg-logo="https://epg.112114.xyz/logo/滨州新闻综合.png" group-title="山东电信",滨州新闻综合
+http://182.38.179.188:4000/udp/239.21.1.118:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.146:5002
+#EXTINF:-1,tvg-id="滕州综合" tvg-name="滕州综合" tvg-logo="https://epg.112114.xyz/logo/滕州综合.png" group-title="山东电信",滕州综合
+http://182.38.179.188:4000/udp/239.21.1.178:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.145:5002
+#EXTINF:-1,tvg-id="济宁综合" tvg-name="济宁综合" tvg-logo="https://epg.112114.xyz/logo/济宁综合.png" group-title="山东电信",济宁综合
+http://182.38.179.188:4000/udp/239.21.1.138:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.201:5002
+#EXTINF:-1,tvg-id="烟台经济科技HD" tvg-name="烟台经济科技HD" tvg-logo="https://epg.112114.xyz/logo/烟台经济科技.png" group-title="山东电信",烟台经济科技HD
+http://182.38.179.188:4000/udp/239.21.1.205:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.197:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.202:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.199:5002
+#EXTINF:-1,tvg-id="邹城新闻综合HD" tvg-name="邹城新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/邹城新闻综合.png" group-title="山东电信",邹城新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.185:5002
+#EXTINF:-1,tvg-id="淄博公共HD" tvg-name="淄博公共HD" tvg-logo="https://epg.112114.xyz/logo/淄博公共.png" group-title="山东电信",淄博公共HD
+http://182.38.179.188:4000/udp/239.21.1.182:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.198:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.192:5002
+#EXTINF:-1,tvg-id="广饶新闻综合HD" tvg-name="广饶新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/广饶新闻综合.png" group-title="山东电信",广饶新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.193:5002
+#EXTINF:-1,tvg-id="济阳综合HD" tvg-name="济阳综合HD" tvg-logo="https://epg.112114.xyz/logo/济阳综合.png" group-title="山东电信",济阳综合HD
+http://182.38.179.188:4000/udp/239.21.1.187:5002
+#EXTINF:-1,tvg-id="莘县TV-1HD" tvg-name="莘县TV-1HD" tvg-logo="https://epg.112114.xyz/logo/莘县TV1.png" group-title="山东电信",莘县TV-1HD
+http://182.38.179.188:4000/udp/239.21.1.211:5002
+#EXTINF:-1,tvg-id="新泰新闻综合HD" tvg-name="新泰新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/新泰新闻综合.png" group-title="山东电信",新泰新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.210:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.200:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.207:5002
+#EXTINF:-1,tvg-id="岚山" tvg-name="岚山" tvg-logo="https://epg.112114.xyz/logo/岚山.png" group-title="山东电信",岚山
+http://182.38.179.188:4000/udp/239.21.1.209:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.189:5002
+#EXTINF:-1,tvg-id="烟台影视HD" tvg-name="烟台影视HD" tvg-logo="https://epg.112114.xyz/logo/烟台影视.png" group-title="山东电信",烟台影视HD
+http://182.38.179.188:4000/udp/239.21.1.204:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.188:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.191:5002
+#EXTINF:-1,tvg-id="金乡新闻HD" tvg-name="金乡新闻HD" tvg-logo="https://epg.112114.xyz/logo/金乡新闻.png" group-title="山东电信",金乡新闻HD
+http://182.38.179.188:4000/udp/239.21.1.184:5002
+#EXTINF:-1,tvg-id="九宫格" tvg-name="九宫格" tvg-logo="https://epg.112114.xyz/logo/九宫格.png" group-title="山东电信",九宫格
+http://182.38.179.188:4000/udp/239.21.1.203:5002
+#EXTINF:-1,tvg-id="无棣综合HD" tvg-name="无棣综合HD" tvg-logo="https://epg.112114.xyz/logo/无棣综合.png" group-title="山东电信",无棣综合HD
+http://182.38.179.188:4000/udp/239.21.1.214:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.212:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.223:5002
+#EXTINF:-1,tvg-id="齐河新闻" tvg-name="齐河新闻" tvg-logo="https://epg.112114.xyz/logo/齐河新闻.png" group-title="山东电信",齐河新闻
+http://182.38.179.188:4000/udp/239.21.1.230:5002
+#EXTINF:-1,tvg-id="平阴综合" tvg-name="平阴综合" tvg-logo="https://epg.112114.xyz/logo/平阴综合.png" group-title="山东电信",平阴综合
+http://182.38.179.188:4000/udp/239.21.1.221:5002
+#EXTINF:-1,tvg-id="巨野新闻HD" tvg-name="巨野新闻HD" tvg-logo="https://epg.112114.xyz/logo/巨野新闻.png" group-title="山东电信",巨野新闻HD
+http://182.38.179.188:4000/udp/239.21.1.215:5002
+#EXTINF:-1,tvg-id="荣成综合HD" tvg-name="荣成综合HD" tvg-logo="https://epg.112114.xyz/logo/荣成综合.png" group-title="山东电信",荣成综合HD
+http://182.38.179.188:4000/udp/239.21.1.227:5002
+#EXTINF:-1,tvg-id="曲阜新闻综合HD" tvg-name="曲阜新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/曲阜新闻综合.png" group-title="山东电信",曲阜新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.225:5002
+#EXTINF:-1,tvg-id="茌平综合" tvg-name="茌平综合" tvg-logo="https://epg.112114.xyz/logo/茌平综合.png" group-title="山东电信",茌平综合
+http://182.38.179.188:4000/udp/239.21.1.219:5002
+#EXTINF:-1,tvg-id="诸城新闻" tvg-name="诸城新闻" tvg-logo="https://epg.112114.xyz/logo/诸城新闻.png" group-title="山东电信",诸城新闻
+http://182.38.179.188:4000/udp/239.21.1.217:5002
+#EXTINF:-1,tvg-id="莒县TV-1" tvg-name="莒县TV-1" tvg-logo="https://epg.112114.xyz/logo/莒县TV1.png" group-title="山东电信",莒县TV-1
+http://182.38.179.188:4000/udp/239.21.1.236:5002
+#EXTINF:-1,tvg-id="寿光蔬菜HD" tvg-name="寿光蔬菜HD" tvg-logo="https://epg.112114.xyz/logo/寿光蔬菜.png" group-title="山东电信",寿光蔬菜HD
+http://182.38.179.188:4000/udp/239.21.1.218:5002
+#EXTINF:-1,tvg-id="沾化综合" tvg-name="沾化综合" tvg-logo="https://epg.112114.xyz/logo/沾化综合.png" group-title="山东电信",沾化综合
+http://182.38.179.188:4000/udp/239.21.1.226:5002
+#EXTINF:-1,tvg-id="平度新闻综合HD" tvg-name="平度新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/平度新闻综合.png" group-title="山东电信",平度新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.228:5002
+#EXTINF:-1,tvg-id="兖州新闻HD" tvg-name="兖州新闻HD" tvg-logo="https://epg.112114.xyz/logo/兖州新闻.png" group-title="山东电信",兖州新闻HD
+http://182.38.179.188:4000/udp/239.21.1.224:5002
+#EXTINF:-1,tvg-id="乳山TV-1HD" tvg-name="乳山TV-1HD" tvg-logo="https://epg.112114.xyz/logo/乳山TV1.png" group-title="山东电信",乳山TV-1HD
+http://182.38.179.188:4000/udp/239.21.1.220:5002
+#EXTINF:-1,tvg-id="东平新闻HD" tvg-name="东平新闻HD" tvg-logo="https://epg.112114.xyz/logo/东平新闻.png" group-title="山东电信",东平新闻HD
+http://182.38.179.188:4000/udp/239.21.1.216:5002
+#EXTINF:-1,tvg-id="栖霞综合" tvg-name="栖霞综合" tvg-logo="https://epg.112114.xyz/logo/栖霞综合.png" group-title="山东电信",栖霞综合
+http://182.38.179.188:4000/udp/239.21.1.229:5002
+#EXTINF:-1,tvg-id="青州文化旅游HD" tvg-name="青州文化旅游HD" tvg-logo="https://epg.112114.xyz/logo/青州文化旅游.png" group-title="山东电信",青州文化旅游HD
+http://182.38.179.188:4000/udp/239.21.1.231:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.213:5002
+#EXTINF:-1,tvg-id="青州综合HD" tvg-name="青州综合HD" tvg-logo="https://epg.112114.xyz/logo/青州综合.png" group-title="山东电信",青州综合HD
+http://182.38.179.188:4000/udp/239.21.1.232:5002
+#EXTINF:-1,tvg-id="禹城综合HD" tvg-name="禹城综合HD" tvg-logo="https://epg.112114.xyz/logo/禹城综合.png" group-title="山东电信",禹城综合HD
+http://182.38.179.188:4000/udp/239.21.1.241:5002
+#EXTINF:-1,tvg-id="五莲新闻综合" tvg-name="五莲新闻综合" tvg-logo="https://epg.112114.xyz/logo/五莲新闻综合.png" group-title="山东电信",五莲新闻综合
+http://182.38.179.188:4000/udp/239.21.1.249:5002
+#EXTINF:-1,tvg-id="聊城综合" tvg-name="聊城综合" tvg-logo="https://epg.112114.xyz/logo/聊城综合.png" group-title="山东电信",聊城综合
+http://182.38.179.188:4000/udp/239.21.1.253:5002
+#EXTINF:-1,tvg-id="莱西综合" tvg-name="莱西综合" tvg-logo="https://epg.112114.xyz/logo/莱西综合.png" group-title="山东电信",莱西综合
+http://182.38.179.188:4000/udp/239.21.1.247:5002
+#EXTINF:-1,tvg-id="聊城公共" tvg-name="聊城公共" tvg-logo="https://epg.112114.xyz/logo/聊城公共.png" group-title="山东电信",聊城公共
+http://182.38.179.188:4000/udp/239.21.1.254:5002
+#EXTINF:-1,tvg-id="东明TV-1" tvg-name="东明TV-1" tvg-logo="https://epg.112114.xyz/logo/东明TV1.png" group-title="山东电信",东明TV-1
+http://182.38.179.188:4000/udp/239.21.1.246:5002
+#EXTINF:-1,tvg-id="信阳新闻综合" tvg-name="信阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/信阳新闻综合.png" group-title="山东电信",信阳新闻综合
+http://182.38.179.188:4000/udp/239.21.1.252:5002
+#EXTINF:-1,tvg-id="牟平生活" tvg-name="牟平生活" tvg-logo="https://epg.112114.xyz/logo/牟平生活.png" group-title="山东电信",牟平生活
+http://182.38.179.188:4000/udp/239.21.2.11:5002
+#EXTINF:-1,tvg-id="新泰乡村" tvg-name="新泰乡村" tvg-logo="https://epg.112114.xyz/logo/新泰乡村.png" group-title="山东电信",新泰乡村
+http://182.38.179.188:4000/udp/239.21.1.248:5002
+#EXTINF:-1,tvg-id="禹城综艺HD" tvg-name="禹城综艺HD" tvg-logo="https://epg.112114.xyz/logo/禹城综艺.png" group-title="山东电信",禹城综艺HD
+http://182.38.179.188:4000/udp/239.21.1.242:5002
+#EXTINF:-1,tvg-id="牟平新闻" tvg-name="牟平新闻" tvg-logo="https://epg.112114.xyz/logo/牟平新闻.png" group-title="山东电信",牟平新闻
+http://182.38.179.188:4000/udp/239.21.2.10:5002
+#EXTINF:-1,tvg-id="武城综艺影视HD" tvg-name="武城综艺影视HD" tvg-logo="https://epg.112114.xyz/logo/武城综艺影视.png" group-title="山东电信",武城综艺影视HD
+http://182.38.179.188:4000/udp/239.21.1.240:5002
+#EXTINF:-1,tvg-id="兰陵综合HD" tvg-name="兰陵综合HD" tvg-logo="https://epg.112114.xyz/logo/兰陵综合.png" group-title="山东电信",兰陵综合HD
+http://182.38.179.188:4000/udp/239.21.1.237:5002
+#EXTINF:-1,tvg-id="邹平新闻频道HD" tvg-name="邹平新闻频道HD" tvg-logo="https://epg.112114.xyz/logo/邹平新闻频道.png" group-title="山东电信",邹平新闻频道HD
+http://182.38.179.188:4000/udp/239.21.1.238:5002
+#EXTINF:-1,tvg-id="武城新闻综合HD" tvg-name="武城新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/武城新闻综合.png" group-title="山东电信",武城新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.239:5002
+#EXTINF:-1,tvg-id="定陶TV-1" tvg-name="定陶TV-1" tvg-logo="https://epg.112114.xyz/logo/定陶TV1.png" group-title="山东电信",定陶TV-1
+http://182.38.179.188:4000/udp/239.21.1.244:5002
+#EXTINF:-1,tvg-id="昌乐新闻综合HD" tvg-name="昌乐新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/昌乐新闻综合.png" group-title="山东电信",昌乐新闻综合HD
+http://182.38.179.188:4000/udp/239.21.1.245:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.255:5002
+#EXTINF:-1,tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="https://epg.112114.xyz/logo/冠县综合.png" group-title="山东电信",冠县综合
+http://182.38.179.188:4000/udp/239.21.1.250:5002
+#EXTINF:-1,tvg-id="郓城新闻HD" tvg-name="郓城新闻HD" tvg-logo="https://epg.112114.xyz/logo/郓城新闻.png" group-title="山东电信",郓城新闻HD
+http://182.38.179.188:4000/udp/239.21.1.251:5002
+#EXTINF:-1,tvg-id="平原新闻HD" tvg-name="平原新闻HD" tvg-logo="https://epg.112114.xyz/logo/平原新闻.png" group-title="山东电信",平原新闻HD
+http://182.38.179.188:4000/udp/239.21.1.243:5002
+#EXTINF:-1,tvg-id="单县综合HD" tvg-name="单县综合HD" tvg-logo="https://epg.112114.xyz/logo/单县综合.png" group-title="山东电信",单县综合HD
+http://182.38.179.188:4000/udp/239.21.2.21:5002
+#EXTINF:-1,tvg-id="胶州新闻HD" tvg-name="胶州新闻HD" tvg-logo="https://epg.112114.xyz/logo/胶州新闻.png" group-title="山东电信",胶州新闻HD
+http://182.38.179.188:4000/udp/239.21.2.60:5002
+#EXTINF:-1,tvg-id="山东广播电台综合广播" tvg-name="山东广播电台综合广播" tvg-logo="https://epg.112114.xyz/logo/山东广播电台综合广播.png" group-title="山东电信",山东广播电台综合广播
+http://182.38.179.188:4000/udp/239.21.2.36:5002
+#EXTINF:-1,tvg-id="济宁公共" tvg-name="济宁公共" tvg-logo="https://epg.112114.xyz/logo/济宁公共.png" group-title="山东电信",济宁公共
+http://182.38.179.188:4000/udp/239.21.2.20:5002
+#EXTINF:-1,tvg-id="黄岛生活HD" tvg-name="黄岛生活HD" tvg-logo="https://epg.112114.xyz/logo/黄岛生活.png" group-title="山东电信",黄岛生活HD
+http://182.38.179.188:4000/udp/239.21.2.58:5002
+#EXTINF:-1,tvg-id="黄岛新闻HD" tvg-name="黄岛新闻HD" tvg-logo="https://epg.112114.xyz/logo/黄岛新闻.png" group-title="山东电信",黄岛新闻HD
+http://182.38.179.188:4000/udp/239.21.2.57:5002
+#EXTINF:-1,tvg-id="长岛高清" tvg-name="长岛高清" tvg-logo="https://epg.112114.xyz/logo/长岛.png" group-title="山东电信",长岛高清
+http://182.38.179.188:4000/udp/239.21.2.52:5002
+#EXTINF:-1,tvg-id="蒙阴TV-1" tvg-name="蒙阴TV-1" tvg-logo="https://epg.112114.xyz/logo/蒙阴TV1.png" group-title="山东电信",蒙阴TV-1
+http://182.38.179.188:4000/udp/239.21.2.23:5002
+#EXTINF:-1,tvg-id="商河综合HD" tvg-name="商河综合HD" tvg-logo="https://epg.112114.xyz/logo/商河综合.png" group-title="山东电信",商河综合HD
+http://182.38.179.188:4000/udp/239.21.2.53:5002
+#EXTINF:-1,tvg-id="陵城新闻HD" tvg-name="陵城新闻HD" tvg-logo="https://epg.112114.xyz/logo/陵城新闻.png" group-title="山东电信",陵城新闻HD
+http://182.38.179.188:4000/udp/239.21.2.24:5002
+#EXTINF:-1,tvg-id="频道暂时停播" tvg-name="频道暂时停播" tvg-logo="https://epg.112114.xyz/logo/频道暂时停播.png" group-title="山东电信",频道暂时停播
+http://182.38.179.188:4000/udp/239.21.2.26:5002
+#EXTINF:-1,tvg-id="蓬莱新闻HD" tvg-name="蓬莱新闻HD" tvg-logo="https://epg.112114.xyz/logo/蓬莱新闻.png" group-title="山东电信",蓬莱新闻HD
+http://182.38.179.188:4000/udp/239.21.2.56:5002
+#EXTINF:-1,tvg-id="宁津新闻综合HD" tvg-name="宁津新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/宁津新闻综合.png" group-title="山东电信",宁津新闻综合HD
+http://182.38.179.188:4000/udp/239.21.2.50:5002
+#EXTINF:-1,tvg-id="济宁综合HD" tvg-name="济宁综合HD" tvg-logo="https://epg.112114.xyz/logo/济宁综合.png" group-title="山东电信",济宁综合HD
+http://182.38.179.188:4000/udp/239.21.2.19:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.25:5002
+#EXTINF:-1,tvg-id="安丘新闻综合HD" tvg-name="安丘新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/安丘新闻综合.png" group-title="山东电信",安丘新闻综合HD
+http://182.38.179.188:4000/udp/239.21.2.13:5002
+#EXTINF:-1,tvg-id="昌邑新闻综合HD" tvg-name="昌邑新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/昌邑新闻综合.png" group-title="山东电信",昌邑新闻综合HD
+http://182.38.179.188:4000/udp/239.21.2.27:5002
+#EXTINF:-1,tvg-id="梁山新闻综合HD" tvg-name="梁山新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/梁山新闻综合.png" group-title="山东电信",梁山新闻综合HD
+http://182.38.179.188:4000/udp/239.21.2.12:5002
+#EXTINF:-1,tvg-id="高密新闻综合HD" tvg-name="高密新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/高密新闻综合.png" group-title="山东电信",高密新闻综合HD
+http://182.38.179.188:4000/udp/239.21.2.59:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.16:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.17:5002
+#EXTINF:-1,tvg-id="海看宝宝" tvg-name="海看宝宝" tvg-logo="https://epg.112114.xyz/logo/海看宝宝.png" group-title="山东电信",海看宝宝
+http://182.38.179.188:4000/udp/239.21.1.86:5002
+#EXTINF:-1,tvg-id="海看剧场HD" tvg-name="海看剧场HD" tvg-logo="https://epg.112114.xyz/logo/海看剧场.png" group-title="山东电信",海看剧场HD
+http://182.38.179.188:4000/udp/239.21.1.98:5002
+#EXTINF:-1,tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://epg.112114.xyz/logo/动作影院.png" group-title="山东电信",动作影院
+http://182.38.179.188:4000/udp/239.21.1.123:5002
+#EXTINF:-1,tvg-id="IPTV魅力时尚" tvg-name="IPTV魅力时尚" tvg-logo="https://epg.112114.xyz/logo/IPTV魅力时尚.png" group-title="山东电信",IPTV魅力时尚
+http://182.38.179.188:4000/udp/239.21.1.129:5002
+#EXTINF:-1,tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://epg.112114.xyz/logo/喜剧影院.png" group-title="山东电信",喜剧影院
+http://182.38.179.188:4000/udp/239.21.1.122:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.1.95:5002
+#EXTINF:-1,tvg-id="海看电竞HD" tvg-name="海看电竞HD" tvg-logo="https://epg.112114.xyz/logo/海看电竞.png" group-title="山东电信",海看电竞HD
+http://182.38.179.188:4000/udp/239.21.1.135:5002
+#EXTINF:-1,tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://epg.112114.xyz/logo/IPTV经典电影.png" group-title="山东电信",IPTV经典电影
+http://182.38.179.188:4000/udp/239.21.1.124:5002
+#EXTINF:-1,tvg-id="海看HD" tvg-name="海看HD" tvg-logo="https://epg.112114.xyz/logo/海看.png" group-title="山东电信",海看HD
+http://182.38.179.188:4000/udp/239.21.1.96:5002
+#EXTINF:-1,tvg-id="海看热播HD" tvg-name="海看热播HD" tvg-logo="https://epg.112114.xyz/logo/海看热播.png" group-title="山东电信",海看热播HD
+http://182.38.179.188:4000/udp/239.21.1.100:5002
+#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="山东电信",IPTV少儿动画
+http://182.38.179.188:4000/udp/239.21.1.125:5002
+#EXTINF:-1,tvg-id="美人" tvg-name="美人" tvg-logo="https://epg.112114.xyz/logo/美人.png" group-title="山东电信",美人
+http://182.38.179.188:4000/udp/239.21.1.132:5002
+#EXTINF:-1,tvg-id="4K电影4K" tvg-name="4K电影4K" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="山东电信",4K电影4K
+http://182.38.179.188:4000/udp/239.21.1.179:5002
+#EXTINF:-1,tvg-id="IPTV相声小品" tvg-name="IPTV相声小品" tvg-logo="https://epg.112114.xyz/logo/IPTV相声小品.png" group-title="山东电信",IPTV相声小品
+http://182.38.179.188:4000/udp/239.21.1.126:5002
+#EXTINF:-1,tvg-id="光影欧洲" tvg-name="光影欧洲" tvg-logo="https://epg.112114.xyz/logo/光影欧洲.png" group-title="山东电信",光影
+http://182.38.179.188:4000/udp/239.21.1.131:5002
+#EXTINF:-1,tvg-id="海看少儿" tvg-name="海看少儿" tvg-logo="https://epg.112114.xyz/logo/海看少儿.png" group-title="山东电信",海看少儿
+http://182.38.179.188:4000/udp/239.21.1.97:5002
+#EXTINF:-1,tvg-id="墨宝" tvg-name="墨宝" tvg-logo="https://epg.112114.xyz/logo/墨宝.png" group-title="山东电信",墨宝
+http://182.38.179.188:4000/udp/239.21.1.130:5002
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="山东电信",财富天下
+http://182.38.179.188:4000/udp/239.21.1.127:5002
+#EXTINF:-1,tvg-id="IPTV热播剧场" tvg-name="IPTV热播剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV热播剧场.png" group-title="山东电信",IPTV热播剧场
+http://182.38.179.188:4000/udp/239.21.1.128:5002
+#EXTINF:-1,tvg-id="海看爱宠HD" tvg-name="海看爱宠HD" tvg-logo="https://epg.112114.xyz/logo/海看爱宠.png" group-title="山东电信",海看爱宠HD
+http://182.38.179.188:4000/udp/239.21.1.85:5002
+#EXTINF:-1,tvg-id="海看大片HD" tvg-name="海看大片HD" tvg-logo="https://epg.112114.xyz/logo/海看大片.png" group-title="山东电信",海看大片HD
+http://182.38.179.188:4000/udp/239.21.1.99:5002
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="山东电信",足球
+http://182.38.179.188:4000/udp/239.21.1.162:5002
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="山东电信",中国交通HD
+http://182.38.179.188:4000/udp/239.21.1.115:5002
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="山东电信",纪实人文
+http://182.38.179.188:4000/udp/239.21.1.195:5002
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="山东电信",金鹰纪实HD
+http://182.38.179.188:4000/udp/239.21.1.170:5002
+#EXTINF:-1,tvg-id="中国教育CETV2" tvg-name="中国教育CETV2" tvg-logo="https://epg.112114.xyz/logo/中国教育CETV2.png" group-title="山东电信",中国教育CETV2
+http://182.38.179.188:4000/udp/239.21.2.8:5002
+#EXTINF:-1,tvg-id="中国教育CETV4" tvg-name="中国教育CETV4" tvg-logo="https://epg.112114.xyz/logo/中国教育CETV4.png" group-title="山东电信",中国教育CETV4
+http://182.38.179.188:4000/udp/239.21.1.222:5002
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="山东电信",北京卫视冬奥纪实8K
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="山东电信",金鹰纪实
+http://182.38.179.188:4000/udp/239.21.1.196:5002
+#EXTINF:-1,tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="山东电信",生态环境
+http://182.38.179.188:4000/udp/239.21.2.42:5002
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="山东电信",纪实人文HD
+http://182.38.179.188:4000/udp/239.21.1.171:5002
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="山东电信",冬奥纪实
+http://182.38.179.188:4000/udp/239.21.1.194:5002
+#EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="山东电信",环球旅游
+http://182.38.179.188:4000/udp/239.21.2.40:5002
+#EXTINF:-1,tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="山东电信",优优宝贝
+http://182.38.179.188:4000/udp/239.21.2.41:5002
+#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="山东电信",四海钓鱼
+http://182.38.179.188:4000/udp/239.21.2.38:5002
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="山东电信",山东教育卫视HD
+http://182.38.179.188:4000/udp/239.21.1.169:5002
+#EXTINF:-1,tvg-id="车迷" tvg-name="车迷" tvg-logo="https://epg.112114.xyz/logo/车迷.png" group-title="山东电信",车迷频道
+http://182.38.179.188:4000/udp/239.21.2.39:5002
+#EXTINF:-1,tvg-id="中国教育CETV1HD" tvg-name="中国教育CETV1HD" tvg-logo="https://epg.112114.xyz/logo/中国教育CETV1.png" group-title="山东电信",中国教育CETV1HD
+http://182.38.179.188:4000/udp/239.21.2.7:5002
+#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="山东电信",中华特产
+http://182.38.179.188:4000/udp/239.21.2.43:5002
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="山东电信",冬奥纪实HD
+http://182.38.179.188:4000/udp/239.21.1.172:5002
+#EXTINF:-1,tvg-id="体育赛事HD" tvg-name="体育赛事HD" tvg-logo="https://epg.112114.xyz/logo/体育赛事.png" group-title="山东电信",体育赛事HD
+http://182.38.179.188:4000/udp/239.21.2.44:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.63:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.76:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.73:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.72:5002
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="山东电信",山东教育卫视
+http://182.38.179.188:4000/udp/239.21.1.101:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.77:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.67:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.66:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.74:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.68:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.69:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.75:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.79:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.71:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.64:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.61:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.78:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.65:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.62:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.70:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.87:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.92:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.85:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.96:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.81:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.100:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.80:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.99:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.91:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.94:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.101:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.93:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.82:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.89:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.98:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.97:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.84:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.88:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.90:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.95:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.86:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.83:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.115:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.105:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.121:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.107:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.103:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.116:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.106:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.119:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.114:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.118:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.110:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.109:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.111:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.108:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.122:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.102:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.104:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.112:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.120:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.113:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.117:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.140:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.127:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.138:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.142:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.144:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.141:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.128:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.137:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.143:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.125:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.132:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.123:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.133:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.136:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.135:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.139:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.129:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.124:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.134:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.130:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.131:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.126:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.154:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.166:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.152:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.146:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.162:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.149:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.150:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.159:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.165:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.157:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.151:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.161:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.163:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.164:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.147:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.145:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.160:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.148:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.158:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.155:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.156:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.153:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.177:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.169:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.178:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.168:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.187:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.182:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.180:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.175:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.186:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.171:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.185:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.183:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.176:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.170:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.181:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.174:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.167:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.172:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.173:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.184:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.179:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.205:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.209:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.189:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.194:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.192:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.195:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.199:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.201:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.210:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.188:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.207:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.193:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.197:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.206:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.208:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.203:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.198:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.202:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.200:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.204:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.190:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.191:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.196:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.223:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.226:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.231:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.228:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.213:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.217:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.211:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.232:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.225:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.222:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.214:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.237:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.212:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.218:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.230:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.215:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.236:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.227:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.220:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.229:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.216:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.233:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.224:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.235:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.219:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.221:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.234:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.242:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.249:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.246:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.244:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.251:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.255:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.248:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.250:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.247:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.239:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.240:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.243:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.253:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.241:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.254:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.245:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.252:5002
+#EXTINF:-1,tvg-id="无信号" tvg-name="无信号" tvg-logo="https://epg.112114.xyz/logo/无信号.png" group-title="山东电信",无信号
+http://182.38.179.188:4000/udp/239.21.2.238:5002
